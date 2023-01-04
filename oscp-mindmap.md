@@ -1,7 +1,7 @@
 # Offinsive Security
 
 
-## Flowchart
+## Mind Map
 <p align="center">
-  <img src="https://github.com/lahham392/GCP-MindMap/files/10342710/OSCP22.pdf" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/82225825/210520070-5565acf4-a9cb-4391-84a9-ad238d394f7b.jpg" alt="Sublime's custom image"/>
 </p>
